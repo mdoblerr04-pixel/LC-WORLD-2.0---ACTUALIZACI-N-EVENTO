@@ -1,0 +1,9 @@
+/* LC WORLD MUSIC - Estilos Globales */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000000;
+  color: #e5e5e5;
+}
